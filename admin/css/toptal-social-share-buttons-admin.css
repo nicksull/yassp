@@ -1,0 +1,11 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+/* Styles for sortable list */
+#toptal_social_share_options .sortable { list-style-type: none; margin: 0; padding: 0; width: 60%; }
+#toptal_social_share_options .sortable li { margin: 0 3px 3px 3px; padding: 0.6em; font-size: 1.1em; height: 22px; background: #f6f6f6; cursor: move; }
+#toptal_social_share_options .sortable li i { float: right; }
+#toptal_social_share_options h4 { margin-bottom: 0; }
+#toptal_social_share_options small { display:block; margin-bottom: 1em; }
